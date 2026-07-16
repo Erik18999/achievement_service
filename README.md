@@ -13,11 +13,8 @@
 - Redis (Pub/Sub)
 - Liquibase
 - Feign Client
-- Spring AOP
-- Spring Retry
 - MapStruct
-- Testcontainers (PostgreSQL, Redis)
-- JUnit 5, AssertJ
+- JUnit 5
 
 ## Запуск
 
